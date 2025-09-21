@@ -1,0 +1,2 @@
+name="Ragavi"
+print (type(name))
